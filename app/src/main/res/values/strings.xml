@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Acceler</string>
+    <string name="aboutText">This is a pretty simple game, where you need to avoid black obstacles,
+        using either your finger or tilting the phone to control an alien.
+        When an obstacle disappear from the screen - you will earn a point.</string>
+</resources>
